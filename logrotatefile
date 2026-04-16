@@ -1,0 +1,7 @@
+/var/log/heat_check.log {
+    size 2M
+    rotate 3
+    compress
+    missingok
+    notifempty
+}
