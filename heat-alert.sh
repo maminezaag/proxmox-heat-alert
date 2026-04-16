@@ -3,7 +3,7 @@
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-MAIL_TO="m.amin.zaag@hotmail.com"
+MAIL_TO="******@hotmail.com"
 TEMP_THRESHOLD="${TEMP_THRESHOLD:-70}"
 REPORT="/root/proxmox_health_report.txt"
 NOW="$(date '+%F %T')"
